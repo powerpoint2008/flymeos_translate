@@ -393,141 +393,141 @@
         <item>30 dakika</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
-        <item>Short</item>
-        <item>Medium</item>
-        <item>Long</item>
+        <item>Kısa</item>
+        <item>Orta</item>
+        <item>Uzun</item>
     </string-array>
     <string-array name="mc_custom_time_picker_lunar_month">
-        <item>Jan</item>
-        <item>Feb</item>
-        <item>Mar</item>
-        <item>Apr</item>
-        <item>May</item>
-        <item>Jun</item>
-        <item>Jul</item>
-        <item>Aug</item>
-        <item>Sep</item>
-        <item>Oct</item>
-        <item>Nov</item>
-        <item>Dec</item>
+        <item>Ocak</item>
+        <item>Şubat</item>
+        <item>Mart</item>
+        <item>Nisan</item>
+        <item>Mayıs</item>
+        <item>Haz</item>
+        <item>Tem</item>
+        <item>Ağu</item>
+        <item>Eylül</item>
+        <item>Ekim</item>
+        <item>Kas</item>
+        <item>Ara</item>
     </string-array>
     <string-array name="mc_custom_weekday">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+        <item>Pzr</item>
+        <item>Pzt</item>
+        <item>Salı</item>
+        <item>Çrş</item>
+        <item>Prş</item>
+        <item>Cuma</item>
+        <item>Cts</item>
     </string-array>
     <string-array name="mvno_type_entries">
-        <item>None</item>
+        <item>Hiçbiri</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
     </string-array>
     <string-array name="mz_screen_timeout_entries">
-        <item>30 secs</item>
-        <item>1 minute</item>
-        <item>2 mins</item>
-        <item>5 mins</item>
-        <item>10 minutes</item>
-        <item>30 mins</item>
+        <item>30 saniye</item>
+        <item>1 dakika</item>
+        <item>2 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>30 dakika</item>
     </string-array>
     <string-array name="network_use_entry">
-        <item>Home only</item>
-        <item>Home + Roaming</item>
+        <item>Sadece evde</item>
+        <item>Ev + Dolaşım</item>
     </string-array>
     <string-array name="nr5g_mode_choices">
-        <item>AUTO</item>
+        <item>OTOMATİK</item>
         <item>NSA+SA</item>
         <item>NSA</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>None</item>
+        <item>Hiçbiri</item>
         <item>720x480 mdpi</item>
-        <item>720x480 mdpi (secure)</item>
+        <item>720x480 mdpi (güvenli)</item>
         <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (secure)</item>
+        <item>1280x720 tvdpi (güvenli)</item>
         <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (secure)</item>
+        <item>1920x1080 xhdpi (güvenli)</item>
         <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_intl">
-        <item>2G only</item>
-        <item>3G first</item>
-        <item>4G first</item>
+        <item>2G sadece</item>
+        <item>3G öncelikli</item>
+        <item>4G/4.5G öncelikli</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_intl_3g">
-        <item>2G only</item>
-        <item>3G first</item>
+        <item>2G sadece</item>
+        <item>3G öncelikli</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_intl_cdma">
-        <item>3G first</item>
-        <item>4G first</item>
+        <item>3G öncelikli</item>
+        <item>4G öncelikli</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_intl_cdma_3g">
-        <item>3G first</item>
+        <item>3G öncelikli</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_mtk_ct_4g">
-        <item>3G first</item>
-        <item>4G first</item>
+        <item>3G öncelikli</item>
+        <item>4G öncelikli</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_simple">
-        <item>Auto</item>
-        <item>2G only</item>
-        <item>3G only</item>
+        <item>Otomatik</item>
+        <item>2G öncelikli</item>
+        <item>3G öncelikli</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_simple_mrvl">
-        <item>2G only</item>
-        <item>3G first</item>
-        <item>4G first</item>
+        <item>2G sadece</item>
+        <item>3G öncelikli</item>
+        <item>4G öncelikli</item>
     </string-array>
     <string-array name="preferred_network_mode_choices_simple_unicom">
-        <item>Auto</item>
-        <item>2G only</item>
+        <item>Otomatik</item>
+        <item>2G öncelikli</item>
     </string-array>
     <string-array name="proc_stats_memory_states">
         <item>Normal</item>
-        <item>Moderate</item>
-        <item>Low</item>
-        <item>Critical</item>
+        <item>Makul</item>
+        <item>Düşük</item>
+        <item>Kritik</item>
     </string-array>
     <string-array name="proc_stats_process_states">
-        <item>Persistent</item>
-        <item>Top activity</item>
-        <item>Important (foreground)</item>
-        <item>Important (background)</item>
-        <item>Backup</item>
-        <item>Heavyweight</item>
-        <item>Service (running)</item>
-        <item>Service (restarting)</item>
-        <item>Receiver</item>
-        <item>Home screen</item>
-        <item>Last activity</item>
-        <item>Cached (activity)</item>
-        <item>Cached (activity client)</item>
-        <item>Cached (empty)</item>
+        <item>Sürekli</item>
+        <item>Üst aktivite</item>
+        <item>Önemli (ön plan)</item>
+        <item>Important (arka plan)</item>
+        <item>Yedek</item>
+        <item>Ağır</item>
+        <item>Servis (çalışıyor)</item>
+        <item>Service (yeniden başlatılıyor)</item>
+        <item>Alıcı</item>
+        <item>Ana ekran</item>
+        <item>Son aktivite</item>
+        <item>Önbelleğe alınmış (etkinlik)</item>
+        <item>Önbelleğe alınmış (etkinlik istemcisi)</item>
+        <item>Önbelleğe alınmış (boş)</item>
     </string-array>
     <string-array name="ram_states">
         <item>Normal</item>
-        <item>Moderate</item>
-        <item>Low</item>
-        <item>Critical</item>
+        <item>Makuk</item>
+        <item>Düşük</item>
+        <item>Kritik</item>
     </string-array>
     <string-array name="screen_timeout_entries">
-        <item>15 seconds</item>
-        <item>30 secs</item>
-        <item>1 minute</item>
-        <item>2 mins</item>
-        <item>5 mins</item>
-        <item>10 minutes</item>
-        <item>30 mins</item>
+        <item>15 saniye</item>
+        <item>30 saniye</item>
+        <item>1 dakika</item>
+        <item>2 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>30 dakika</item>
     </string-array>
     <string-array name="security_settings_premium_sms_values">
-        <item>Ask</item>
-        <item>Never allow</item>
-        <item>Always allow</item>
+        <item>Sor</item>
+        <item>Asla izin verme</item>
+        <item>Her zaman izin ver</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>64K</item>
@@ -549,159 +549,159 @@
         <item>16 MB</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>Off</item>
-        <item>All log buffers</item>
-        <item>All but radio log buffers</item>
-        <item>kernel log buffer only</item>
+        <item>Kapalı</item>
+        <item>Tüm önbellek kayıtları</item>
+        <item>Hepsi ama radyo günlüğü kayıtları</item>
+        <item>Sadece kernel önbellek kayıtları </item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>Off</item>
-        <item>All</item>
-        <item>All but radio</item>
-        <item>kernel only</item>
+        <item>Kapalı</item>
+        <item>Hepsi</item>
+        <item>Hepsi ama radyo</item>
+        <item>Sadece kernel</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
-        <item>Draw non-rectangular clip region in blue</item>
-        <item>Highlight tested drawing commands in green</item>
+        <item>Kapalı</item>
+        <item>Dikdörtgen olmayan klip bölgesini mavi renkte çizin</item>
+        <item>Test edilen çizim komutlarını yeşil renkle vurgulayın</item>
     </string-array>
     <string-array name="sim_slot">
-        <item>Unspecified</item>
-        <item>Sim Slot 1</item>
-        <item>Sim Slot 2</item>
+        <item>Belirsiz</item>
+        <item>Sim Yuvası 1</item>
+        <item>Sim Yuvası 2</item>
     </string-array>
     <string-array name="smart_touch_behavior_click_entries">
-        <item>Close</item>
-        <item>Back</item>
+        <item>Kapat</item>
+        <item>Geri</item>
     </string-array>
     <string-array name="smart_touch_behavior_doubleclick_entries">
-        <item>Close</item>
-        <item>Pull down screen</item>
-        <item>Open notification shade</item>
-        <item>Lock screen</item>
-        <item>Launch task manager</item>
+        <item>Kapat</item>
+        <item>Ekranı aşağı kaydır</item>
+        <item>Bildirim panelini aç</item>
+        <item>Kilit ekranı</item>
+        <item>Görev yöneticisini başlat</item>
     </string-array>
     <string-array name="smart_touch_behavior_down_entries">
-        <item>Close</item>
-        <item>Open notification shade</item>
-        <item>Pull down screen</item>
-        <item>Lock screen</item>
-        <item>End current process</item>
+        <item>Kapat</item>
+        <item>Bildirim panelini aç</item>
+        <item>Ekranı aşağı kaydır</item>
+        <item>Kilit ekranı</item>
+        <item>Şimdiki işlemi bitir</item>
     </string-array>
     <string-array name="smart_touch_behavior_left_right_entries">
-        <item>Close</item>
-        <item>Switch between tasks</item>
+        <item>Kapat</item>
+        <item>Görevler arasında değiştir</item>
     </string-array>
     <string-array name="smart_touch_behavior_long_entries">
-        <item>Close</item>
-        <item>Move</item>
+        <item>Kapat</item>
+        <item>Hareket ettir</item>
     </string-array>
     <string-array name="smart_touch_behavior_up_entries">
-        <item>Close</item>
-        <item>Back to Home screen</item>
-        <item>Lock screen</item>
-        <item>End current process</item>
-        <item>Launch task manager</item>
-        <item>Open menu</item>
+        <item>Kapat</item>
+        <item>Ana ekrana geri dön</item>
+        <item>Kilit ekranı</item>
+        <item>Şimdiki işlemi bitir</item>
+        <item>Görev yöneticisini başlat</item>
+        <item>Menüyü aç</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Off</item>
-        <item>Display on screen as bars</item>
-        <item>In adb shell dumpsys gfxinfo</item>
+        <item>Kapalı</item>
+        <item>Ekranda bar olarak göster</item>
+        <item>adb shell dumpsys gfxinfo da</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale 0.5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animasyon kapalı</item>
+        <item>Animasyon ölçeği 0.5x</item>
+        <item>Animasyon ölçeği 1x</item>
+        <item>Animasyon ölçeği 1.5x</item>
+        <item>Animasyon ölçeği 2x</item>
+        <item>Animasyon ölçeği 5x</item>
+        <item>Animasyon ölçeği 10x</item>
     </string-array>
     <string-array name="tts_pitch_entries">
-        <item>Very low</item>
-        <item>Low</item>
+        <item>Çok düşük</item>
+        <item>Düşük</item>
         <item>Normal</item>
-        <item>High</item>
-        <item>Very high</item>
+        <item>Yüksek</item>
+        <item>Çok yüksek</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
+        <item>Çok yavaş</item>
+        <item>Yavaş</item>
         <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
-        <item>Very fast</item>
-        <item>Rapid</item>
-        <item>Very rapid</item>
-        <item>Fastest</item>
+        <item>Hızlı</item>
+        <item>Daha hızlı</item>
+        <item>Çok hızlı</item>
+        <item>Seri</item>
+        <item>Daha seri</item>
+        <item>En hızlı</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
-        <item>Usage time</item>
-        <item>Last time used</item>
-        <item>App name</item>
+        <item>Kullanım zamanı</item>
+        <item>En son kullanılan zaman</item>
+        <item>Uygulama ismi</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>Charging</item>
+        <item>Şerj oluyor</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
         <item>RNDIS (USB Ethernet)</item>
-        <item>Audio Source</item>
+        <item>Ses cihazı</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="user_content_ratings_entries">
-        <item>Ascended being</item>
-        <item>Human</item>
-        <item>Neanderthal</item>
-        <item>Chimp</item>
-        <item>Monkey</item>
+        <item>Yükselmiş varlık</item>
+        <item>İnsan</item>
+        <item>Neandertal</item>
+        <item>Şempaze</item>
+        <item>Maymun</item>
     </string-array>
     <string-array name="vpn_proxy_settings">
-        <item>None</item>
-        <item>Manual</item>
+        <item>Hiçbiri</item>
+        <item>Elle</item>
     </string-array>
     <string-array name="vpn_states">
-        <item>Disconnected</item>
-        <item>Initializing...</item>
-        <item>Connecting...</item>
-        <item>Connected</item>
-        <item>Timeout</item>
-        <item>Failed</item>
-        <item>Reconnecting...</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başlatılıyor...</item>
+        <item>Bağlanıyor...</item>
+        <item>Bağlandı</item>
+        <item>Zaman aşımı</item>
+        <item>Başarısız oldu</item>
+        <item>Yeniden Bağlanıyor...</item>
     </string-array>
     <string-array name="vpn_states_ext_mtpd_exit">
-        <item>System error</item>
-        <item>Network error</item>
-        <item>Protocol error</item>
-        <item>L2pt challenge failed</item>
-        <item>MTP connection failed, please retry</item>
-        <item>Disconnected by server, please check the username and password</item>
-        <item>Protocol is not compatible</item>
-        <item>Failed to get the server address</item>
-        <item>Failed to connect to the server (VPN service not supported by server)</item>
+        <item>Sistem hatası</item>
+        <item>Bağlantı hatası</item>
+        <item>Protokol hatası</item>
+        <item>L2pt sorgulaması başarısız oldu</item>
+        <item>MTP bağlantısı başarısız oldu, lütfen bir daha deneyin</item>
+        <item>Sunucu tarafından bağlantı kesildi, lütfen kullanıcı adını ve şifreyi kontrol ediniz</item>
+        <item>Protokol uyumsuz</item>
+        <item>Sunucu adresi alma başarısız oldu</item>
+        <item>Sunucuya bağlanma başarısız olma (VPN servisi sunucu tarafından desteklenmiyor)</item>
     </string-array>
     <string-array name="vpn_states_ext_pppd_exit">
-        <item>Fatal error</item>
-        <item>Option error</item>
-        <item>Must be root to run PPP</item>
-        <item>No kernel support</item>
-        <item>PPP connection failed, please retry</item>
-        <item>Failed to lock device file</item>
-        <item>Failed to open device file</item>
-        <item>Failed</item>
-        <item>Failed</item>
-        <item>Authentication failure</item>
-        <item>Server refused to authenticate: link terminated</item>
-        <item>Connection terminated due to lack of activity.</item>
-        <item>Connection timeout</item>
-        <item>Failed</item>
-        <item>The server is not responding</item>
-        <item>Unknown error</item>
-        <item>Loopback detected</item>
-        <item>Failed</item>
-        <item>Authentication failed: please check username and password</item>
-        <item>Exceeds data limit</item>
-        <item>Failed</item>
+        <item>Vahim hata</item>
+        <item>Ayar hatası</item>
+        <item>PPP'yi çalıştırması için root olması lazım</item>
+        <item>Kernel desteği yok</item>
+        <item>PPP bağlantısı başarısız oldu, lütfen tekrar deneyin</item>
+        <item>Cihaz dosyasını kilitlemek başarısız oldu</item>
+        <item>Cihaz dosyasını açmak başarısız oldu</item>
+        <item>Başarısız oldu</item>
+        <item>Başarısız oldu</item>
+        <item>Kimlik doğrulama hatası</item>
+        <item>Sunucuda kimlik doğrulama başarısız oldu: bağlantı sonlandırıldı</item>
+        <item>Etkinlik eksikliği nedeniyle bağlantı sonlandırıldı.</item>
+        <item>Bağlantı zamanaşımı</item>
+        <item>Başarısız oldu</item>
+        <item>Sunucu yanıt vermiyor</item>
+        <item>Bilinmeyen hata</item>
+        <item>Geri döngü algılandı</item>
+        <item>Başarısız oldu</item>
+        <item>Kimlik doğrulama başarısız oldu: lütfen kullanıcı adınızı ve şifrenizi kontrol edin</item>
+        <item>Veri sınırını aşıyor</item>
+        <item>Başarısız oldu</item>
     </string-array>
     <string-array name="vpn_types">
         <item>PPTP</item>
@@ -726,129 +726,129 @@
         <item>IKEv2/IPSec VPN with certificates</item>
     </string-array>
     <string-array name="wakeupType_entries">
-        <item>Double-press Home button</item>
-        <item>Slide up (using more power)</item>
+        <item>Ev tuşuna iki kere bas</item>
+        <item>Yukarı kaydır (daha fazla güç kullanır)</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
-        <item>Auto</item>
-        <item>5 GHz only</item>
-        <item>2.4 GHz only</item>
+        <item>Otomatik</item>
+        <item>5 GHz sadece</item>
+        <item>2.4 GHz sadece</item>
     </string-array>
     <string-array name="wifi_info_menu_items">
-        <item>Network info</item>
-        <item>Share network</item>
-        <item>Modify password</item>
-        <item>Forget network</item>
-        <item>Static IP</item>
-        <item>Proxy settings</item>
+        <item>Ağ bilgisi</item>
+        <item>Ağı paylaş</item>
+        <item>Şifreyi düzenle</item>
+        <item>BU ağı unut</item>
+        <item>Statik IP</item>
+        <item>Proxy ayarları</item>
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
-        <item>Static</item>
+        <item>Statik</item>
     </string-array>
     <string-array name="wifi_p2p_status">
-        <item>Connected</item>
-        <item>Invited</item>
-        <item>Failed</item>
-        <item>Available</item>
-        <item>Out-of-range</item>
+        <item>Bağlandı</item>
+        <item>Davet edildi</item>
+        <item>Başarısız oldu</item>
+        <item>Mevcut</item>
+        <item>Aralık dışı</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
-        <item>Push button</item>
-        <item>PIN from peer device</item>
-        <item>PIN from this device</item>
+        <item>Düğmeye bas</item>
+        <item>Akran cihazdan PIN</item>
+        <item>Bu cihazdan PIN</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>None</item>
+        <item>Hiçbiri</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
-        <item>None</item>
+        <item>Hiçbiri</item>
         <item>PAP</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_proxy_options">
-        <item>Manual</item>
+        <item>Elle</item>
         <item>Proxy Auto-Config</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
-        <item>None</item>
-        <item>Manual</item>
-        <item>Proxy Auto-Config</item>
+        <item>Hiçbiri</item>
+        <item>Elle</item>
+        <item>Proxy Oto-yapılandırma</item>
     </string-array>
     <string-array name="wifi_signal">
-        <item>Poor</item>
-        <item>Fair</item>
-        <item>Good</item>
-        <item>Strong</item>
+        <item>Zayıf</item>
+        <item>Makul</item>
+        <item>İyi</item>
+        <item>Güçlü</item>
     </string-array>
     <string-array name="wifi_signal_three_level">
-        <item>Poor</item>
-        <item>Fair</item>
-        <item>Strong</item>
+        <item>Zayıf</item>
+        <item>Makul</item>
+        <item>Güçlü</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
-        <item>Always</item>
-        <item>Only when plugged in</item>
-        <item>Never</item>
+        <item>Her zaman</item>
+        <item>Sadece takıldığında</item>
+        <item>Asla</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>Always</item>
-        <item>Only when plugged in</item>
-        <item>Never</item>
+        <item>Her zaman</item>
+        <item>Sadece takıldığında</item>
+        <item>Asla</item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
-        <item>Authenticating….</item>
-        <item>Obtaining IP address…</item>
-        <item>Connected</item>
-        <item>Suspended</item>
-        <item>Disconnecting…</item>
-        <item>Disconnected</item>
-        <item>Failed</item>
-        <item>Blocked</item>
-        <item>Temporarily avoid poor connection</item>
+        <item>Taranıyor…</item>
+        <item>Bağlanıyor…</item>
+        <item>Kimlik doğrulanıyor….</item>
+        <item>IP addressi alınıyor…</item>
+        <item>Bağlandı</item>
+        <item>Askıya alındı</item>
+        <item>Bağlantı kesiliyor…</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız oldu</item>
+        <item>Engelli</item>
+        <item>Zayıf bağlantıları geçici olarak görmezden geliniyor</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting to %1$s…</item>
-        <item>Authenticating via %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
-        <item>Connected to %1$s</item>
-        <item>Suspended</item>
-        <item>Disconnecting from %1$s...</item>
-        <item>Disconnected</item>
-        <item>Failed</item>
-        <item>Blocked</item>
-        <item>Temporarily avoid poor connection</item>
+        <item>Taranıyor…</item>
+        <item>%1$s Bağlanıyor…</item>
+        <item>%1$s aracılığıyla kimlik doğrulanıyor…</item>
+        <item>%1$s dan IP adresi alınıyor…</item>
+        <item>%1$s a bağlandı</item>
+        <item>Askıya alındı</item>
+        <item>%1$s dan bağlantı kesiliyor...</item>
+        <item>Bağlantı keesildi</item>
+        <item>Başarısız oldu</item>
+        <item>Engelli</item>
+        <item>Zayıf bağlantıları geçici olarak görmezden geliniyor</item>
     </string-array>
     <string-array name="wifitrackerlib_wifi_status">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
-        <item>Authenticating…</item>
-        <item>Obtaining IP address…</item>
-        <item>Connected</item>
-        <item>Suspended</item>
-        <item>Disconnecting…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Taranıyor…</item>
+        <item>Bağlanıyor…</item>
+        <item>Kimlik doğrulanıyor…</item>
+        <item>IP addressi alınıyor…</item>
+        <item>Bağlandı</item>
+        <item>Askıya alındı</item>
+        <item>Bağlantı kesiliyor…</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız oldu</item>
+        <item>Engelli</item>
+        <item>Zayıf bağlantıları geçici olarak görmezden geliniyor</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale 0.5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animasyon kapalı</item>
+        <item>Animasyon ölçeği 0.5x</item>
+        <item>Animasyon ölçeği 1x</item>
+        <item>Animasyon ölçeği 1.5x</item>
+        <item>Animasyon ölçeği 2x</item>
+        <item>Animasyon ölçeği 5x</item>
+        <item>Animasyon ölçeği 10x</item>
     </string-array>
 </resources>
