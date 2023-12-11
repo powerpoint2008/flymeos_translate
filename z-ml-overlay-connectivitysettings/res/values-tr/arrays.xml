@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="animator_duration_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale 0.5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animasyon kapalı</item>
+        <item>Animasyon ölçeği 0.5x</item>
+        <item>Animasyon ölçeği 1x</item>
+        <item>Animasyon ölçeği 1.5x</item>
+        <item>Animasyon ölçeği 2x</item>
+        <item>Animasyon ölçeği 5x</item>
+        <item>Animasyon ölçeği 10x</item>
     </string-array>
     <string-array name="apn_auth_entries">
-        <item>None</item>
+        <item>Hiçbiri</item>
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP or CHAP</item>
@@ -21,192 +21,192 @@
         <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Internal device storage</item>
-        <item>Removable SD card</item>
-        <item>Decide by the system</item>
+        <item>Cihaz Depolaması</item>
+        <item>Çıkarılabilir SD kart</item>
+        <item>Sisteme göre karar ver</item>
     </string-array>
     <string-array name="app_ops_categories">
-        <item>Location</item>
-        <item>Personal</item>
-        <item>Message</item>
-        <item>Media</item>
-        <item>Device</item>
+        <item>Konum</item>
+        <item>Kişisel</item>
+        <item>Mesaj</item>
+        <item>Medya</item>
+        <item>Cihaz</item>
     </string-array>
     <string-array name="app_ops_labels">
-        <item>Location</item>
-        <item>Location</item>
-        <item>Location</item>
-        <item>Vibrate</item>
-        <item>Read contacts</item>
-        <item>Modify contacts</item>
-        <item>Read call logs</item>
-        <item>Modify call logs</item>
-        <item>Read calendar</item>
-        <item>Modify calendar</item>
-        <item>Location</item>
-        <item>Post notification</item>
-        <item>Location</item>
-        <item>Dial</item>
-        <item>Read SMS/MMS</item>
-        <item>Write SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Send SMS/MMS</item>
-        <item>Read SMS/MMS</item>
-        <item>Write SMS/MMS</item>
-        <item>Modify settings</item>
-        <item>Draw on top</item>
-        <item>Access notifications</item>
-        <item>Camera</item>
-        <item>Record audio</item>
-        <item>Play audio</item>
-        <item>Read clipboard</item>
-        <item>Modify clipboard</item>
-        <item>Media buttons</item>
-        <item>Audio focus</item>
-        <item>Master volume</item>
-        <item>Voice volume</item>
-        <item>Ring volume</item>
-        <item>Media volume</item>
-        <item>Alarm volume</item>
-        <item>Notification volume</item>
-        <item>Bluetooth volume</item>
-        <item>Keep awake</item>
-        <item>Location</item>
-        <item>Location</item>
-        <item>Get usage stats</item>
-        <item>Mute/unmute microphone</item>
-        <item>Project media</item>
-        <item>Activate VPN</item>
+        <item>Konum</item>
+        <item>Konum</item>
+        <item>Konum</item>
+        <item>Titret</item>
+        <item>Kişileri oku</item>
+        <item>Kişileri düzenle</item>
+        <item>Arama kayıtlarını oku</item>
+        <item>Arama kayıtlarını düzenle</item>
+        <item>Takvimi oku</item>
+        <item>Takvimi düzenle</item>
+        <item>Konum</item>
+        <item>Bildirim gönder</item>
+        <item>Konum</item>
+        <item>Ara</item>
+        <item>SMS/MMS mesajlarını oku</item>
+        <item>SMS/MMS mesajları yaz</item>
+        <item>SMS/MMS mesajları al</item>
+        <item>SMS/MMS mesajları al</item>
+        <item>SMS/MMS mesajları al</item>
+        <item>SMS/MMS mesajları al</item>
+        <item>SMS/MMS mesajları gönder</item>
+        <item>SMS/MMS mesajlarını oku</item>
+        <item>SMS/MMS mesajları yaz</item>
+        <item>Ayarları düzenle</item>
+        <item>Üstüne çiz</item>
+        <item>Bildirim erişimi</item>
+        <item>Kamera</item>
+        <item>Ses kaydet</item>
+        <item>Ses kaydını oynat</item>
+        <item>Panoyu oku</item>
+        <item>Panoyu düzenle</item>
+        <item>Ses tuşları</item>
+        <item>Ses odağı</item>
+        <item>Ana ses</item>
+        <item>Ses seviyesi</item>
+        <item>Zil sesi</item>
+        <item>Medya sesi</item>
+        <item>Alarm sesi</item>
+        <item>Bildirim sesi</item>
+        <item>Bluetooth sesi</item>
+        <item>Uyanık kal</item>
+        <item>Konum</item>
+        <item>Konum</item>
+        <item>Kullanım durumuna al</item>
+        <item>Mikrofonu Sustur/aç</item>
+        <item>Proje medyası</item>
+        <item>VPN'i aç</item>
     </string-array>
     <string-array name="app_ops_summaries">
-        <item>General location</item>
-        <item>Precise location</item>
+        <item>Genel Konum</item>
+        <item>Yaklaşık konum</item>
         <item>GPS</item>
-        <item>Vibrate</item>
-        <item>Read contacts</item>
-        <item>Modify contacts</item>
-        <item>Read call logs</item>
-        <item>Modify call logs</item>
-        <item>Read calendar</item>
-        <item>Modify calendar</item>
-        <item>WLAN scan</item>
-        <item>Notifications</item>
-        <item>Mobile network scan</item>
-        <item>Dial</item>
-        <item>Read SMS</item>
-        <item>Write SMS</item>
-        <item>Receive SMS</item>
-        <item>Receive emergency SMS</item>
-        <item>Receive MMS</item>
-        <item>Receive WAP push</item>
-        <item>Send SMS</item>
-        <item>Read ICC SMS</item>
-        <item>Write ICC SMS</item>
-        <item>Modify settings</item>
-        <item>Draw on top</item>
-        <item>access notifications</item>
-        <item>Camera</item>
-        <item>Record audio</item>
-        <item>Play audio</item>
-        <item>Read clipboard</item>
-        <item>Modify clipboard</item>
-        <item>media buttons</item>
-        <item>audio focus</item>
-        <item>Master volume</item>
-        <item>Voice volume</item>
-        <item>ring volume</item>
-        <item>media volume</item>
-        <item>alarm volume</item>
-        <item>notification volume</item>
-        <item>bluetooth volume</item>
-        <item>keep awake</item>
-        <item>monitor location</item>
-        <item>monitor high power location</item>
-        <item>get usage stats</item>
-        <item>mute/unmute microphone</item>
-        <item>project media</item>
-        <item>activate VPN</item>
+        <item>Titret</item>
+        <item>Kişileri oku</item>
+        <item>Kişikeri düzenle</item>
+        <item>Arama kayıtlarını oku</item>
+        <item>Arama kayıtlarını düzenle</item>
+        <item>Takvimi oku</item>
+        <item>Takvimi düzenle</item>
+        <item>WLAN taraması</item>
+        <item>Bildirimler</item>
+        <item>Mobil ağ taraması</item>
+        <item>Ara</item>
+        <item>SMS mesajlarını oku</item>
+        <item>SMS mesajı yaz</item>
+        <item>SMS mesajları al</item>
+        <item>Acil durum SMS mesajı al</item>
+        <item>MMS mesajları al</item>
+        <item>WAP push al</item>
+        <item>SMS mesajı gönder</item>
+        <item>ICC SMS mesajlarını oku</item>
+        <item>ICC SMS mesajları yaz</item>
+        <item>Ayarları düzenle</item>
+        <item>Üzerine çiz</item>
+        <item>Bildirim erişimi</item>
+        <item>Kamera</item>
+        <item>Ses kaydet</item>
+        <item>Ses kaydını oynat</item>
+        <item>Panoyu oku</item>
+        <item>Panoyu düzenle</item>
+        <item>Ses tuşları</item>
+        <item>Ses odağı</item>
+        <item>Ana ses</item>
+        <item>Ses seviyesi</item>
+        <item>Zil sesi</item>
+        <item>Medya sesi</item>
+        <item>Alarm sesi</item>
+        <item>Bildirim sesi</item>
+        <item>Bluetooth sesi</item>
+        <item>Uyanık kal</item>
+        <item>Konumunu izleyin</item>
+        <item>Yüksek güç konumunu izleyin</item>
+        <item>Kullanım durumlarını al</item>
+        <item>Mikrofonu Sustur/aç</item>
+        <item>Proje Medyası</item>
+        <item>VPN'i aç</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standard limit</item>
-        <item>No background processes</item>
-        <item>At most 1 process</item>
-        <item>At most 2 processes</item>
-        <item>At most 3 processes</item>
-        <item>At most 4 processes</item>
+        <item>Arkaplan etkinliği yok</item>
+        <item>En fazla 1 işem</item>
+        <item>En fazla 2 işem</item>
+        <item>En fazla 3 işem</item>
+        <item>En fazla 4 işem</item>
     </string-array>
     <string-array name="app_standby_permission">
-        <item>Allow running when on standby</item>
-        <item>Disallow running when on standby</item>
+        <item>Beklemedeyken çalışmaya izin ver</item>
+        <item>Beklemedeyken çalışmaya izin verme</item>
     </string-array>
     <string-array name="app_wakeup_permission">
-        <item>Scheduled notices</item>
-        <item>Scheduled notices</item>
-        <item>Disallow wakeup</item>
+        <item>Zamanlanmış bildirimler</item>
+        <item>Zamanlanmış bildirimler</item>
+        <item>Uyanmayı izin verme</item>
     </string-array>
     <string-array name="batteryMode_entries">
-        <item>Saving</item>
-        <item>Balance</item>
-        <item>Performance</item>
+        <item>Güç tasarrufu</item>
+        <item>Dengeli</item>
+        <item>Performans</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
-        <item>Unspecified</item>
+        <item>Belirsiz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Use System Selection (Default)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
+        <item>Sistemde seçili olanı kullan (Varsayılan)</item>
+        <item>16 bit/örnek</item>
+        <item>24 bit/örnek</item>
+        <item>32 bit/örnek</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Use System Selection (Default)</item>
-        <item>16 bits/sample</item>
-        <item>24 bits/sample</item>
-        <item>32 bits/sample</item>
+        <item>Sistemde seçili olanı kullan (Varsayılan)</item>
+        <item>16 bit/örnek</item>
+        <item>24 bit/örnek</item>
+        <item>32 bit/örnek</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Sistemde seçili olanı kullan (Varsayılan)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Sistemde seçili olanı kullan (Varsayılan)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Optimized for Audio Quality</item>
-        <item>Balanced Audio And Connection Quality</item>
-        <item>Optimized for Connection Quality</item>
+        <item>Ses kalitesi için optimize edildi</item>
+        <item>Dengeli ses ve bağlantı kalitesi</item>
+        <item>Bağlantı kalitesi için optimize edildi</item>
         <item>Best Effort (Adaptive Bit Rate)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Optimized for Audio Quality (990kbps/909kbps)</item>
         <item>Balanced Audio And Connection Quality (660kbps/606kbps)</item>
         <item>Optimized for Connection Quality (330kbps/303kbps)</item>
-        <item>Best Effort (Adaptive Bit Rate)</item>
+        <item>En iyi çaba (Adaptif Bit oranı)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Sistemde seçili olanı kullan (Varsayılan)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Sistemde seçili olanı kullan (Varsayılan)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Use System Selection (Default)</item>
+        <item>Sistemde seçili olanı kullan (Varsayılan)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
@@ -217,7 +217,7 @@
         <item>LC3</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Use System Selection (Default)</item>
+        <item>Sistemde seçili olanı kullan (Varsayılan)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
@@ -229,168 +229,168 @@
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
-        <item>, active</item>
-        <item>, active (media)</item>
-        <item>, active (phone)</item>
+        <item>, Aktif</item>
+        <item>, Aktif (medya)</item>
+        <item>, Aktif (telefon)</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.5 (Default)</item>
+        <item>AVRCP 1.5 (Varsayılan)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
-        <item>MAP 1.2 (Default)</item>
+        <item>MAP 1.2 (Varsayılan)</item>
         <item>MAP 1.3</item>
         <item>MAP 1.4</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 mins</item>
-        <item>5 mins</item>
-        <item>1 hour</item>
-        <item>Never timeout</item>
+        <item>2 dk</item>
+        <item>5 dk</item>
+        <item>1 saat</item>
+        <item>Zaman aşımı yok</item>
     </string-array>
     <string-array name="blur_effect_entries">
-        <item>High</item>
-        <item>Medium</item>
-        <item>Low</item>
+        <item>Yüksek</item>
+        <item>Orta</item>
+        <item>Düşük</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
-        <item>Disabled</item>
-        <item>Enabled Filtered</item>
-        <item>Enabled</item>
-        <item>Enabled Headers Filtered</item>
-        <item>Enabled Media Pkts Filtered</item>
-        <item>Enabled Profiles Filtered</item>
+        <item>Devre dışı</item>
+        <item>Etkin Filtrelendi</item>
+        <item>Etkin</item>
+        <item>Etkin Başlıklar Filtrelendi</item>
+        <item>Etkinleştirilmiş Medya Paketleri Filtrelendi</item>
+        <item>Etkinleştirilmiş Profiller Filtrelendi</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
-        <item>Default</item>
-        <item>None</item>
-        <item>Outline</item>
-        <item>Shadow</item>
-        <item>Raised</item>
-        <item>Depressed</item>
+        <item>Varsayılan</item>
+        <item>Hiçbiri</item>
+        <item>Taslak</item>
+        <item>Gölge</item>
+        <item>Kabarık</item>
+        <item>Depresif</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
-        <item>Tiny</item>
-        <item>Small</item>
+        <item>Çok Küçük</item>
+        <item>Küçük</item>
         <item>Normal</item>
-        <item>Large</item>
-        <item>Extra large</item>
+        <item>Büyük</item>
+        <item>Çok Büyük</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>Use app defaults</item>
-        <item>White on black</item>
-        <item>Black on white</item>
-        <item>Yellow on black</item>
-        <item>Yellow on blue</item>
-        <item>Custom</item>
+        <item>Uygulama varsayılanları kullan</item>
+        <item>Siyah üzerinde beyaz</item>
+        <item>Beyaz üzerinde siyah</item>
+        <item>Siyah üzerinde sarı</item>
+        <item>Mavi üzerinde sarı</item>
+        <item>Rastgele</item>
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
-        <item>Default</item>
+        <item>Varsayılan</item>
         <item>Sans-serif</item>
-        <item>Sans-serif condensed</item>
-        <item>Sans-serif monospace</item>
+        <item>Sans-serif yoğunlaştırılmış</item>
+        <item>Sans-serif tek aralık</item>
         <item>Serif</item>
         <item>Serif monospace</item>
-        <item>Casual</item>
-        <item>Cursive</item>
-        <item>Small capitals</item>
+        <item>Sıradan</item>
+        <item>El yazısı</item>
+        <item>Küçük harfler</item>
     </string-array>
     <string-array name="color_mode_descriptions">
-        <item>Enhanced colors</item>
-        <item>Natural colors as seen by the eye</item>
-        <item>Colors optimized for digital content</item>
+        <item>Geliştirilmiş renkler</item>
+        <item>Gözle görülen doğal renkler</item>
+        <item>Dijital içerik için optimize olmuş renkler</item>
     </string-array>
     <string-array name="color_mode_names">
-        <item>Vibrant (default)</item>
-        <item>Natural</item>
-        <item>Standard</item>
+        <item>Canlı (Varsayılan)</item>
+        <item>Doğal</item>
+        <item>Standart</item>
     </string-array>
     <string-array name="color_picker">
-        <item>Teal</item>
-        <item>Blue</item>
-        <item>Indigo</item>
-        <item>Purple</item>
-        <item>Pink</item>
-        <item>Red</item>
+        <item>Turkuaz</item>
+        <item>Mavi</item>
+        <item>Çivit rengi</item>
+        <item>Mor</item>
+        <item>Pembe</item>
+        <item>Kırmızı</item>
     </string-array>
     <string-array name="data_roaming_choices_for_play">
-        <item>Disable</item>
-        <item>National roaming only</item>
-        <item>All networks</item>
+        <item>Devre dışı bırak</item>
+        <item>Sadece uluslararası dolaşım</item>
+        <item>Bütün ağlar</item>
     </string-array>
     <string-array name="data_usage_data_range">
-        <item>Last 30 days</item>
-        <item>Set usage cycle...</item>
+        <item>Son 30 gün</item>
+        <item>Kullanım döngüsünü ayarla...</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
-        <item>Show overdraw areas</item>
-        <item>Show areas for Deuteranomaly</item>
+        <item>Kapalı</item>
+        <item>Fazla çizim alanlarını göster</item>
+        <item>Deuteranomali alanlarını göster</item>
     </string-array>
     <string-array name="dream_timeout_entries">
-        <item>Never</item>
-        <item>15 seconds</item>
-        <item>30 secs</item>
-        <item>1 minute</item>
-        <item>2 mins</item>
-        <item>5 mins</item>
-        <item>10 minutes</item>
-        <item>30 mins</item>
+        <item>Hiçbir Zaman</item>
+        <item>15 saniye</item>
+        <item>30 saniye</item>
+        <item>1 dakika</item>
+        <item>2 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>30 dakika</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
+        <item>Hiçbiri</item>
         <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
-        <item>Invoke stack on glGetError</item>
+        <item>Systrace (Grafik)</item>
+        <item>glGetError'da yığını çağır</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Small</item>
+        <item>Küçük</item>
         <item>Normal</item>
-        <item>Large</item>
-        <item>Extra large</item>
+        <item>Büyük</item>
+        <item>Çok büyük</item>
     </string-array>
     <string-array name="entries_meizu_app_font_size">
-        <item>Small</item>
+        <item>Küçük</item>
         <item>Normal</item>
-        <item>Medium</item>
-        <item>Large</item>
-        <item>Extra large</item>
+        <item>Orta</item>
+        <item>Büyük</item>
+        <item>Çok büyük</item>
     </string-array>
     <string-array name="entries_zen_mode">
-        <item>Off</item>
-        <item>Limited interruptions</item>
-        <item>Zero interruptions</item>
+        <item>Kapalı</item>
+        <item>Sınırlı Kesinti</item>
+        <item>Sıfır Kesinti</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Never use HDCP checking</item>
-        <item>Use HDCP only to check DRM content</item>
-        <item>Always use HDCP checking</item>
+        <item>Never use HDCP Kontrol ediliyor</item>
+        <item>DRM içerikleri için sadece HDCP kullan</item>
+        <item>Her zaman HDCP'yi kontrol et</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>Never check</item>
-        <item>Check DRM content only</item>
-        <item>Always check</item>
+        <item>Hiçbir zaman kontrol etme</item>
+        <item>Sadece DRM içeriklerini kontol et</item>
+        <item>Her zaman kontrol et</item>
     </string-array>
     <string-array name="home_key_behavior_entries">
-        <item>Activate Smart Voice</item>
-        <item>Turn off screen</item>
+        <item>Akıllı sesi aç</item>
+        <item>Ekranı kapat</item>
     </string-array>
     <string-array name="keyboard_back_behavior_entries">
-        <item>Disable keyboard only</item>
-        <item>Disable keyboard and return</item>
+        <item>Sadece klavyeyi devre dışı bırak</item>
+        <item>Klavyeyi devre dışı bırak ve geri dön</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
-        <item>Immediately</item>
-        <item>5 seconds</item>
-        <item>15 seconds</item>
-        <item>30 secs</item>
-        <item>1 minute</item>
-        <item>2 mins</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>30 mins</item>
+        <item>Hemen</item>
+        <item>5 saniye</item>
+        <item>15 saniye</item>
+        <item>30 saniye</item>
+        <item>1 dakika</item>
+        <item>2 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>30 dakika</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Short</item>
